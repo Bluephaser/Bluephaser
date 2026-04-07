@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 **Bluephaser/Bluephaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Liam, a gameplay programmer and technical designer based in Redmond, Washington.
+
+My goal as a programmer is to best work alongside the designers and other creatives to interpret and enable their ideas to the best of my ability.
+
+I'm currently working as a member of Brew Method, an indie studio based in Redmond as well. I am the technical producer as well as a gameplay programmer on the title "Black Hole Coffee."
+
+Languages I am experienced in include C, C++, C#, Java, and Lua. Tools I am experienced in include Unity, Unreal Engine 5, Godot, Visual Studio/VSCode, Jetbrains Rider, Tortoise SVN, Perforce, ClickUp, and LLMs.
+
+If you'd like to discuss anything you see on this page with me, feel free to contact me at liambinford@gmail.com or on my LinkedIn at https://www.linkedin.com/in/liam-binford-44144b299/
